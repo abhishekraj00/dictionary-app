@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component sanpshot test should render correctly 1`] = `
+<div
+  className="sc-gLLvby gmcYa"
+>
+  <div
+    className="sc-iBdmCd jqISTi"
+    data-testid="container"
+  >
+    <div
+      className="themeIconContainer"
+    >
+      <svg
+        data-testid="dark-icon"
+        height={25}
+        onClick={[Function]}
+        width={25}
+      >
+        dark.svg
+      </svg>
+    </div>
+    <div
+      className="sc-hLQRIN eIjcEg"
+    >
+      <input
+        className="sc-eDLJxc bbZwxl"
+        onChange={[Function]}
+        onKeyPress={[Function]}
+        placeholder="Search a word..."
+        type="text"
+        value=""
+      />
+      <svg
+        height={20}
+        width={20}
+      >
+        search.svg
+      </svg>
+    </div>
+    <div
+      className="sc-beySbM dYDsNu"
+    >
+      <h2
+        data-testid="definition"
+      >
+        Word: 
+        <h4
+          className="sc-guDLRT jlXoGf"
+        >
+          <h4
+            className="sc-dmyDGi ksKYvN"
+          >
+            Loading...
+          </h4>
+        </h4>
+      </h2>
+    </div>
+    <button
+      className="sc-fsYeqs LApSS btn btn-dark"
+      onClick={[Function]}
+    >
+      Show More
+    </button>
+  </div>
+</div>
+`;
